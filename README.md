@@ -4,7 +4,7 @@ End-to-end single-cell RNA-seq analysis pipeline in R (Seurat) covering quality 
 
 ## Overview
 
-This project processes ~21,000 cells across four donors to build an annotated immune cell atlas, characterize differentiation trajectories within the hematopoietic lineage, and map cell-cell signaling networks. It was completed as part of the Single Cell Bioinformatics course at Saarland University (ICBB, Müller Lab / Kern Lab / Schulze-Hentrich Lab).
+This project processes ~21,000 cells across four donors to build an annotated immune cell atlas, characterize differentiation trajectories within the hematopoietic lineage, and map cell-cell signaling networks. It was completed as part of the Single Cell Bioinformatics course at Saarland University (ICBB, Müller Lab).
 
 **Samples:** BMMC_D1T1, BMMC_D1T2 (bone marrow mononuclear cells) and CD34_D2T1, CD34_D3T1 (CD34+ enriched progenitors)
 
